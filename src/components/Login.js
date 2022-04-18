@@ -7,6 +7,7 @@ const Login =  (props) =>{
 
         <div>
             <h1>Login</h1>
+            <h2>Hy am Saranga</h2>
             
         </div>
     );
