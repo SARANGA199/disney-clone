@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 
+
 const Header = (props) => {
 
 
@@ -12,9 +13,31 @@ const Header = (props) => {
       <NavMenu>
           <a href='/home'>
              <img src='/images/home-icon.svg' alt='home'/>
-             <span>Home</span>
+             <span>HOME</span>
+          </a>
+          <a href='/'>
+             <img src='/images/search-icon.svg' alt='search'/>
+             <span>SEARCH</span>
+          </a>
+          <a href='/watchlist'>
+             <img src='/images/watchlist-icon.svg' alt='watchlist'/>
+             <span>WATCHLIST</span>
+          </a>
+          <a href='/originals'>
+             <img src='/images/original-icon.svg' alt='original'/>
+             <span>ORIGINALS</span>
+          </a>
+          <a href='/movies'>
+             <img src='/images/movie-icon.svg' alt='move'/>
+             <span>MOVIES</span>
+          </a>
+          
+          <a href='/series'>
+             <img src='/images/series-icon.svg' alt='series'/>
+             <span>SERIES</span>
           </a>
       </NavMenu>
+      <Login>Login</Login>
   </Nav>
 
  );
@@ -80,7 +103,7 @@ const NavMenu = styled.div`
 
     span {
       color: rgb(249, 249, 249);
-      font-size: 13px;
+      font-size: 16px;
       letter-spacing: 1.42px;
       line-height: 1.08;
       padding: 2px 0px;
@@ -117,4 +140,20 @@ const NavMenu = styled.div`
   /* @media (max-width: 768px) {
     display: none;
   } */
+`;
+
+const Login = styled.a`
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 8px 16px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  border: 1px solid #f9f9f9;
+  border-radius: 4px;
+  transition: all 0.2s ease 0s;
+
+  &:hover {
+    background-color: #f9f9f9;
+    color: #000;
+    border-color: transparent;
+  }
 `;
