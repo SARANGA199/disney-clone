@@ -4,9 +4,16 @@
 
 <p> There are some screenshots of my project. </p>
 <hr/>
+![disney2](https://user-images.githubusercontent.com/87310474/178906735-b13e9334-b8c3-4abc-b56d-aca6a10f4f76.png)
+<br/>
 
 ![disney](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
 
+<br/>
+
+![disney3](https://user-images.githubusercontent.com/87310474/178906890-b6d1327c-dbf0-4b56-81f6-8a6a27b4e989.png)
+
+<hr/>
 
 
 
