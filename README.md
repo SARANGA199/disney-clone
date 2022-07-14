@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <p> In this project I was re-designed disney+ web UI with react,redux and firebase. </p>
 
-
+![disney](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
 
 
 
