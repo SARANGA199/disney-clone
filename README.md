@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saranga</h1>
-<h3 align="center"> In this project I was re-designed disney+ web UI with react,redux and firebase. </h3>
+<h3 align="left"> In this project I was re-designed disney+ web UI with react,redux and firebase. </h3>
 
 <h3 align="left">Languages and Tools:</h3> 
 <h5 align="left">React JS</h3> 
