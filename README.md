@@ -5,6 +5,7 @@
 <p> There are some screenshots of my project. </p>
 <hr/>
 
+![disney2](https://user-images.githubusercontent.com/87310474/178907452-fc7e2ec9-54c8-4e4c-9bf7-7742c19aa3f2.png)
 <br/>
 
 ![disney](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
