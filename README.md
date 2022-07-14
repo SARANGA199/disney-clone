@@ -4,7 +4,7 @@
 
 <p> There are some screenshots of my project. </p>
 <hr/>
-![disney2](https://user-images.githubusercontent.com/87310474/178906735-b13e9334-b8c3-4abc-b56d-aca6a10f4f76.png)
+![disney2](https://user-images.githubusercontent.com/87310474/178907188-f9e9ca7b-f506-4e69-99e9-43916acc0575.png)
 <br/>
 
 ![disney](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
