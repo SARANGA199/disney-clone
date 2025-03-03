@@ -1,35 +1,33 @@
-<h1 align="center">Hi 👋, I'm Saranga</h1>
-<h3 align="left"> In this project I was re-designed disney+ web UI with react,redux and firebase. </h3>
+# Disney+ Clone 🖥️
 
-<h3 align="left">Languages and Tools:</h3> 
-<h5 align="left">React JS</h3> 
-<h5 align="left">Redux:</h3> 
-<h5 align="left">Styled Components</h3> 
-<h5 align="left">FireBase</h3> <br />
-<hr/>
-  
-<h3>Get Expirence with Live Demo</h3>
+In this project, I redesigned the **Disney+ Web UI** using **React**, **Redux**, and **Firebase** to create a responsive and dynamic user interface that replicates the original Disney+ web experience.
 
-[Disney +](https://disneyplus-clone-3d3ab.web.app/)   
+## 🛠️ Technologies Used
 
-<hr/>
-<p> There are some screenshots of my project. </p>
-<hr/>
+- **React.js**: A JavaScript library for building user interfaces.
+- **Redux**: A state management library for JavaScript apps.
+- **Styled Components**: For writing CSS in JavaScript.
+- **Firebase**: A platform for building and managing applications, used for authentication and data storage.
 
-![disney2](https://user-images.githubusercontent.com/87310474/178907452-fc7e2ec9-54c8-4e4c-9bf7-7742c19aa3f2.png)
-<br/>
+## 🚀 Live Demo
 
-![disney](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
+You can experience the live demo of this project at the link below:
 
-<br/>
+[Disney+ Clone - Live Demo](https://disneyplus-clone-3d3ab.web.app/)
 
-![disney3](https://user-images.githubusercontent.com/87310474/178906890-b6d1327c-dbf0-4b56-81f6-8a6a27b4e989.png)
+## 📸 Screenshots
 
-<hr/>
+Here are some screenshots from the project to give you an idea of the UI:
 
+![Disney+ Clone Screenshot 1](https://user-images.githubusercontent.com/87310474/178907452-fc7e2ec9-54c8-4e4c-9bf7-7742c19aa3f2.png)
+![Disney+ Clone Screenshot 2](https://user-images.githubusercontent.com/87310474/178904280-f6846412-37e9-48fe-8bd8-902846315704.png)
+![Disney+ Clone Screenshot 3](https://user-images.githubusercontent.com/87310474/178906890-b6d1327c-dbf0-4b56-81f6-8a6a27b4e989.png)
 
+## 🛠️ Languages and Tools
 
+Here are some of the key technologies used in this project:
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-
+- **React.js**
+- **Redux**
+- **Styled Components**
+- **Firebase**
